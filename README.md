@@ -1,1 +1,1 @@
-# sstcloud2mqtt
+# sstcloud2mqtt - gateway to the sst-cloud via mqtt
